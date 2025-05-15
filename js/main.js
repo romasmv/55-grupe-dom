@@ -1,0 +1,1 @@
+const h1DOM = document.getElementsByTagName('h1')
