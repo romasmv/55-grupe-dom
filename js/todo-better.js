@@ -1,5 +1,4 @@
 const h1DOM = document.querySelector('h1')
-
 const formDOM = document.forms[0];
 const inputDOM = document.getElementById('task');
 const listDOM = document.querySelector('.list');
