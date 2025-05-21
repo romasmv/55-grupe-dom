@@ -1,4 +1,5 @@
-import { header } from "./header.js"
+import { header } from "./header.js";
+header(true);
 
 const mainDOM = document.getElementsByTagName('main');
 const h1MainDOM = mainDOM[0].getElementsByTagName('h1');

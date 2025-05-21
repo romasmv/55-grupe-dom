@@ -1,3 +1,6 @@
+import { header } from "./header.js";
+header();
+
 const h1DOM = document.querySelector('h1')
 
 const formDOM = document.forms[0];

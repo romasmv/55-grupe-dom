@@ -1,3 +1,7 @@
+import { header } from "./header.js";
+header();
+
+
 const h1DOM = document.querySelector('h1')
 const formDOM = document.forms[0];
 const inputDOM = document.getElementById('task');
@@ -9,14 +13,14 @@ let deletedCount = 0;
 formDOM.addEventListener('submit', event => {
     event.preventDefault();
 
-    listDOM.innerHTML = `
+    listDOM.insertAdjacentHTML("afterbegin",`
         <div class="item">
             <div class="header">
                 <div class="index">${++count}</div>
                 <button class="btn" type="button">Delete</button>
             </div>
             <div class="content">${inputDOM.value}</div>
-        </div>` + listDOM.innerHTML;
+        </div>` )
 
 
     inputDOM.value = '';
