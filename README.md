@@ -13,19 +13,13 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://romasmv.github.io/optechh/
-
-Design: ![Optech] https://optech-next.vercel.app/home-6
+Site published at: hromasmv.github.io/55-grupe-dom/
 
 ## 🎯 Project features/goals
 
 -   Github pages
 -   responsive design
--   CSS file(components)
--   external fonts
--   CSS animation
 -   HTML forms
--   background image
 -   javaScript
         
 
@@ -51,7 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/romasmv/55-grupe-optech.git
+    git clone https://github.com/romasmv/55-grupe-dom.git
     ```
 2. Install NPM packages
     ```sh
