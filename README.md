@@ -13,7 +13,7 @@ _DOM functionality no designe_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: hromasmv.github.io/55-grupe-dom/
+Site published at: https://romasmv.github.io/55-grupe-dom/
 
 ## 🎯 Project features/goals
 
